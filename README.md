@@ -1,11 +1,11 @@
 # CRM-Sales-Dashboard_GoogleSheets
 
 An interactive dashboard for Sales Managers to track their team's quarterly performance in Google Sheets<br/> 
-Situation
-Performing quarterly sales analysis for a company specializing in selling computer hardware to large businesses. The company has just implemented a new CRM system to track sales opportunities, but has no visibility of the data outside of the platform.
-Task
-Built an interactive dashboard that enables sales managers to track their team’s quarterly performance.
-Objectives
+Situation<br/> 
+Performing quarterly sales analysis for a company specializing in selling computer hardware to large businesses. The company has just implemented a new CRM system to track sales opportunities, but has no visibility of the data outside of the platform.<br/> 
+Task<br/> 
+Built an interactive dashboard that enables sales managers to track their team’s quarterly performance.<br/> 
+Objectives<br/> 
 1.	Data preparation
 2.	Data exploration with pivot tables
 •	Insert a pivot table on a new table on a new tab to show opportunities won by quarter.
