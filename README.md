@@ -1,11 +1,11 @@
 # CRM-Sales-Dashboard_GoogleSheets
 
 An interactive dashboard for Sales Managers to track their team's quarterly performance in Google Sheets<br/> 
-Situation<br/> 
+**Situation**<br/> 
 Performing quarterly sales analysis for a company specializing in selling computer hardware to large businesses. The company has just implemented a new CRM system to track sales opportunities, but has no visibility of the data outside of the platform.<br/> 
-Task<br/> 
+**Task**<br/> 
 Built an interactive dashboard that enables sales managers to track their team’s quarterly performance.<br/> 
-Objectives<br/> 
+**Objectives**<br/> 
 1.	Data preparation<br/> 
 2.	Data exploration with pivot tables<br/> 
 •	Insert a pivot table on a new table on a new tab to show opportunities won by quarter.<br/> 
@@ -18,7 +18,7 @@ Objectives<br/>
 •	Use a bar chart to visualise the opportunities won by the sales agent for the most recent quarter<br/> 
 •	Add slicers for the regional office and manager fields.<br/> 
 •	Finish by arranging the visuals into a dashboard and adding a title.<br/> 
-Key Insights:<br/> 
+**Key Insights:**<br/> 
 •	Sales Conversion Rate: In Quarter 4, 60.25% of opportunities were successfully converted into sales, reflecting ongoing efforts to drive conversion effectiveness.<br/> 
 •	Quarter-over-Quarter Comparison: Compared to the previous quarter, there were 61 fewer opportunities converted into sales, highlighting a potential area for further analysis and improvement.<br/> 
 •	Top Conversion Quarter: Quarter 1 achieved the highest conversion rate, with 82.07% of opportunities successfully turning into sales, setting a strong benchmark for the year.<br/> 
