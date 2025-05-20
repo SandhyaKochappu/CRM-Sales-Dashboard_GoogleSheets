@@ -1,6 +1,6 @@
 # CRM-Sales-Dashboard_GoogleSheets
 
-An interactive dashboard for Sales Managers to track their team's quarterly performance in Google Sheets
+An interactive dashboard for Sales Managers to track their team's quarterly performance in Google Sheets<br/> 
 Situation
 Performing quarterly sales analysis for a company specializing in selling computer hardware to large businesses. The company has just implemented a new CRM system to track sales opportunities, but has no visibility of the data outside of the platform.
 Task
